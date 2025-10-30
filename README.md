@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jagdish Uikey
 ======================================================================================================================================
 
-Aspiring Software Developer | MERN Stack Enthusiast
+ Software Developer | MERN Stack Developer
 ---------------------------------------------------
 
 🎓 3rd-year Computer Engineering student passionate about Web Development, DSA
@@ -14,8 +14,8 @@ Aspiring Software Developer | MERN Stack Enthusiast
 
 * 🌍  I'm based in Pune,Maharashtra
 * ✉️  You can contact me at [juikey697@gmail.com](mailto:juikey697@gmail.com)
-* 🚀  I'm currently working on [Chat-App](http://chat-app-omega-wine.vercel.app/)
-* 🧠  I'm currently learning DSA and Devlopment
+* 🚀  I'm currently working on Real world Project
+* 🧠  I'm currently learning Devops
 * 👥  I'm looking to collaborate on “Web apps, open-source contributions, or hackathon projects.”
 * 💬  Ask me about ✈️ I enjoy exploring new places and experiences — it keeps me creative and motivated.
 
@@ -26,7 +26,7 @@ Aspiring Software Developer | MERN Stack Enthusiast
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Jagdishuikey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/jagdish-uikey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+
 
 <b>My GitHub Stats</b>
 
